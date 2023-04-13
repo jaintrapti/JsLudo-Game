@@ -74,3 +74,20 @@ img{
 
     }
 }
+@media (max-width: 500px) and (min-width: 300px){
+    button{
+        
+    position: absolute;
+    left: 119px;
+
+    }
+    .para{
+        position: absolute;
+    left: -42px;
+    }
+    #ludo1{
+        position: absolute;
+    top: 73px;
+    left: -7px;
+    }
+}
